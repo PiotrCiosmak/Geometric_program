@@ -12,8 +12,6 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
 
-//Przed każdą funkcja dać możliwość (opcjonalnie) wyśietlanie listy np. dostępnych pkt, trójkątów itd
-
 public class View implements IView
 {
     static Scanner sc = new Scanner(System.in);
